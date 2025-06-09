@@ -22,7 +22,7 @@ Este script permite obtener un resumen detallado en formato JSON de los alumnos 
 
 ## 📦 Instalación
 
-1. Copiar copiar la carpeta "api_gest_alum" de este repositorio dentro de la carpeta raiz de moodle:
+1. Copiar la carpeta "api_gest_alum" de este repositorio dentro de la carpeta raiz de moodle:
 
 ```
 /moodle/api_gest_alum/
@@ -47,7 +47,7 @@ ACCESS_TOKEN=mi_token_seguro
 ```
 
 > Este token será requerido para cada llamada a la API como medida de autenticación.
-
+```
 ---
 
 ## 🚀 Uso de la API
